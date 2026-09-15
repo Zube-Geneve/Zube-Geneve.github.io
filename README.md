@@ -2,6 +2,8 @@
 
 Research, publications, teaching and supervision at the University of Montpellier.
 
+**[Open the website](https://zube-geneve.github.io/)**
+
 ## Edit the website
 
 Open a file on GitHub, click the pencil icon, edit the text and select Commit changes. GitHub Pages rebuilds the website after each commit.
