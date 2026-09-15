@@ -4,21 +4,21 @@ section: research
 ---
 # Research
 
-<p class="lead">My research connects clinical questions in rheumatology with methods from epidemiology, machine learning and computer engineering.</p>
+<p class="lead">My research connects clinical questions in osteoarthritis and inflammatory rheumatic diseases with methods from epidemiology, machine learning and computer engineering.</p>
 
-## Prediction in rheumatology
+## Prediction in osteoarthritis and inflammatory rheumatic diseases
 {: #prediction}
 
-I develop and evaluate models to predict disease onset, remission and progression. A central question is whether a model remains useful when applied to people from another cohort or healthcare setting.
+I develop and evaluate models to predict disease onset, progression, remission and treatment outcomes in osteoarthritis and inflammatory rheumatic diseases. A central question is whether a model remains useful when applied to people from another cohort or healthcare setting.
 
 Published work includes prediction of remission in rheumatoid arthritis through the JAK-pot collaboration, prediction of rheumatoid arthritis in first-degree relatives, and prediction of end-stage knee osteoarthritis. Current research extends to drug-free remission, disease trajectories and models that combine clinical information with knowledge about the disease and its environment.
 
-## Osteoarthritis across time and joints
+## Osteoarthritis: risk factors and disease progression
 {: #osteoarthritis}
 
-I investigate how pain, structural changes and functional limitations evolve in knee, hip and hand osteoarthritis. This includes the relationships between body weight and osteoarthritis outcomes, and how changes in different outcomes relate to one another over time.
+I investigate how pain, structural changes and functional limitations evolve in knee, hip and hand osteoarthritis. I study how these outcomes relate to one another over time and across joints, and investigate clinical, environmental and biological factors associated with disease risk and progression.
 
-Current work examines symptom and structural progression, patterns across joints, and medication use. Analyses draw on longitudinal cohorts including the Osteoarthritis Initiative (OAI), the Multicenter Osteoarthritis Study (MOST) and CHECK.
+My projects examine body weight, environmental exposures, metabolic profiles and medication use, alongside symptom and structural progression. Analyses draw on longitudinal cohorts including the Osteoarthritis Initiative (OAI), the Multicenter Osteoarthritis Study (MOST) and CHECK.
 
 ## Environment, metabolism and the microbiome
 {: #environment}
